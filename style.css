@@ -1,0 +1,25 @@
+
+.heading{
+    width: 100%;
+   text-align: center;
+    color: rgb(248, 150, 31);
+    background-color: darkgray;
+}
+.heading h1{
+  
+ display: inline;
+}
+.heading button{
+    float:right;
+margin-top: 2px;
+}
+h4{
+    background-color: white;
+    line-height: 3;
+    margin: 0px;
+    bottom: 0;
+}
+
+.modal-dialog{
+    width: 90%;
+    }
